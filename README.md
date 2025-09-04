@@ -27,7 +27,7 @@ A passionate and detail-oriented developer currently pursuing B.Tech in Computer
 
 📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRIVANI-JALDU&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mounikachandu&show_icons=true&theme=radical)
 
 🧠 My Values
 
